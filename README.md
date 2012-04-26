@@ -1,4 +1,4 @@
 openTextbooks
 =============
 
-Open textbook and curriculum initiative
+an open textbook and curriculum initiative
